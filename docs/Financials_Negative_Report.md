@@ -6,15 +6,15 @@
 **Test Case Number**: 2 
 **Test case description**: Test the get_financials function in the case of bad data, ensuring graceful return. 
 **Results**: Pass  
-**Incident Number**: [#639](https://github.com/ranaroussi/yfinance/issues/639)  
+**Incident Number**: [#593](https://github.com/ranaroussi/yfinance/issues/593)  
 
 ## Introduction
 
 **Requirements to be tested**: Graceful invalid data handling.   
 **Roles and responsibilities**:
-| Person    | role   |
-|-----------|--------|
-| Mehershad | Tester |
+| Person   | role   |
+|----------|--------|
+| Mehrshad | Tester |
 
 **Set Up procedures**: -  
 **Stop Procedures**: Will stop once done tests, or run: Ctrl-D
