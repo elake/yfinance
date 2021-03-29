@@ -38,9 +38,9 @@ All modules as specified in requirements.txt
 
 **Output:**  
 1 items passed all tests:  
-   5 tests in __main__.Ticker.financials  
-5 tests in 28 items.  
-5 passed and 0 failed.  
+   7 tests in __main__.Ticker.financials  
+7 tests in 28 items.  
+7 passed and 0 failed.  
 Test passed.  
   
 **Interpretation:**  
