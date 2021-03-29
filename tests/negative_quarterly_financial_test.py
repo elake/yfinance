@@ -1,3 +1,6 @@
+import sys
+sys.path.append("..")
+sys.path.append(".")
 import unittest
 from unittest.mock import Mock
 from unittest.mock import patch
