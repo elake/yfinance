@@ -4,6 +4,7 @@ from unittest.mock import Mock
 from unittest.mock import patch
 import sys
 sys.path.append("..")
+sys.path.append(".")
 from yfinance import ticker
 
 class TickerMock(ticker.Ticker):
